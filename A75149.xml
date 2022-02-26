@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The bloody almanack: to which England is directed, to fore-know what shall come to passe, / by that famous astrologer, M. John Booker. Being a perfect abstract of the prophecies proved out of Scripture, by the noble Napier, Lord of Marchistoun in Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75149</idno>
+            <idno type="STC">Wing A1948</idno>
+            <idno type="STC">Thomason E245_13</idno>
+            <idno type="STC">ESTC R3714</idno>
+            <idno type="EEBO-CITATION">99872469</idno>
+            <idno type="PROQUEST">99872469</idno>
+            <idno type="VID">158358</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158358)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E245[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The bloody almanack: to which England is directed, to fore-know what shall come to passe, / by that famous astrologer, M. John Booker. Being a perfect abstract of the prophecies proved out of Scripture, by the noble Napier, Lord of Marchistoun in Scotland.</title>
+                  <author>Booker, John, 1603-1667.</author>
+                  <author>Napier, John, 1550-1617.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Anthony Vincent, and are to be sold in the Old-Baily.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Annotation on Thomason copy: "Jan. 20th 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs, English --  Early works to 1800.</term>
+               <term>Astrology --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158358:1" rendition="simple:additions"/>
+            <p>The bloody Almanack:</p>
+            <p>To which ENGLAND is directed, to fore-know what ſhall come to paſſe, by that famous Aſtrologer, M. JOHN BOOKER.</p>
+            <p>Being a perfect Abſtract of the Prophecies proved out of Scripture, By the noble NAPIER, Lord of <hi>Marchiſtoun</hi> in <hi>Scotland.</hi>
+            </p>
+            <figure>
+               <p>The guide of Aſtrologers.</p>
+               <p>The Joy of England.</p>
+               <p>The deſtruction of the World.</p>
+            </figure>
+            <p>LONDON, Printed for Anthony Vincent, and are to be ſold in the Old-Baily. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158358:2"/>
+            <pb n="1" facs="tcp:158358:2"/>
+            <head>The bloody Almanack.</head>
+            <div n="1" type="part">
+               <head>I. Concerning the opening of the ſeven Seales mentioned <hi>Revel. 6.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">J</seg>OHN mentions the opening of the ſeven ſeales, <hi>Re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 6. the opening of every ſeal muſt continue the ſpace of ſeven years, and that becauſe of removing and giving ſeven yeares to eve<g ref="char:EOLhyphen"/>ry ſeale, you ſhall find the effect of every ſeale to be perfor<g ref="char:EOLhyphen"/>med within the ſeven years of that ſeale; and ſo the harmo<g ref="char:EOLhyphen"/>ny to be perfect betwixt thoſe ſeales and the juſt hiſtory.</p>
+               <p>This was opened when <hi>Chriſt</hi> was baptized, and began to preach, and o<g ref="char:EOLhyphen"/>pen the ſealed doctrine of our ſalvation, which was in the end of the 29. yeare of the age of <hi>Chriſt,</hi> and about the beginning of his thirtieth yeere, as <hi>Luke</hi> te<g ref="char:EOLhyphen"/>ſtifieth.</p>
+               <p n="1">1. Betwixt the yeer of <hi>Chriſt</hi> 29. and 36. then <hi>Chriſt</hi> by his doctrine, mi<g ref="char:EOLhyphen"/>racles, death, and victory over death, ſo touched and moved the hearts of all the faithfull, that ſuddenly he with his Diſciples got the victory over all the world.</p>
+               <p n="2">2. Betwixt the yeer 36. and 43. within the ſpace of theſe ſecond ſeven yeers S. <hi>Stephen</hi> ſuffered martyrdome for <hi>Chriſts</hi> ſake, and <hi>Iames</hi> the brother of <hi>Iohn</hi> likewiſe was beheaded.</p>
+               <p n="3">3. Then in the third ſeale, betwixt the 43. and 50. yeare of <hi>Chriſt</hi> there was a famine whereof <hi>Agabus</hi> prophecyed. <hi>Acts</hi> 11. and <hi>Luke</hi> in his book of the <hi>Acts</hi> maketh mention. In this dearth the buſhell of wheat was ſold for five times the accuſtomed price, and the buſhell of barley for three, as teſtifieth <hi>Su<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tonius</hi> and <hi>Dion.</hi>
+               </p>
+               <p n="4">4 Then in the fourth ſeven yeers, betwixt the yeers of <hi>Chriſt</hi> 50. and 57. certain heretikes aroſe, as <hi>Corinthus, Nicolaus,</hi> and <hi>Ebion,</hi> who held deadly he<g ref="char:EOLhyphen"/>reſies againſt the Divinity of <hi>Chriſt;</hi> whereupon in the time of theſe fourth ſeven yeers <hi>Iohn</hi> wrote the fourth <hi>Evangel,</hi> and publiſhed it, beginning at the deſcription of <hi>Chriſts</hi> Divinity, expreſly againſt thoſe Hereticks.</p>
+               <p n="5">5 Then in the fifth ſeven yeers, even the yeer of <hi>Chriſt</hi> 57. (as the Text ſaith) there was ſeen under the Altar the ſoules of them that were killed for the Word of God, and for the teſtimony which they maintained, even ſo in that very year aroſe the tyrant <hi>Nero,</hi> on whoſe bloudy ſeat the bloud of the Saints cry up to the heavens to God to revenge their bloud.</p>
+               <p n="6">6 Then in the ſixt ſeven yeers, as the Text ſaith, there was a great earth<g ref="char:EOLhyphen"/>quake,
+<pb n="2" facs="tcp:158358:3"/>and the Sun was black as ſack-cloth of haire, and the Moon was like to blood, and even ſo after the yeare of <hi>Chriſt</hi> 64 a great change and defection came on all eſtates of the Roman Empire, for now <hi>Nero,</hi> raiſed great pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ti<g ref="char:EOLhyphen"/>ons againſt the true ſpirituall Profeſſors; to have utterly darkned and extingui<g ref="char:EOLhyphen"/>ſhed the light of the Goſpell; ſo that the true Church of God was forced to lurk in ſecret, for the revenge whereof, God moved the Kingdomes of <hi>France, Spain,</hi> and Iſle of <hi>Brittain</hi> to revolt from this Tyrant.</p>
+               <p n="7">7 Then in the ſeventh ſeven years which was betwixt the year of <hi>Chriſt</hi> 70. and 77. the text ſaith, at the opening of this ſeal, there was ſilence in heaven about half an hour; even ſo at that time Gods Church had peace a little while.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. Concerning the ſeven Trumpets mentioned Chap. <hi>8.</hi> &amp; <hi>9.</hi>
+               </head>
+               <p n="1">I. THe laſt of the ſeven Seals, and the firſt of the ſeven Trumpets begin both at once in <hi>An.</hi> 71. This appeareth evidently, for even by the Text, Chap. 8. the ſeventh ſed being opened that very houre the ſe<g ref="char:EOLhyphen"/>ven Angels received their Trumpets to blow; for having ſaid in the firſt Verſe, And when he had opened the firſt ſeal, there was ſilence in heaven about half an houre, he ſubjoyneth immediately, Ver. 2. And I ſaw the ſeven Angels, &amp;c. receive their ſeven trumpets: And farther, after he had ſhewed verſe 5. how <hi>Chriſt</hi> powred out the fiery co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>les of his wrath in revenge of the blood of his Saints, which doubtleſſe was upon Ieruſalem which ſhed it, incontinent he ſubjoyneth verſe 6. and 7. that then the ſeven Angels prepared themſelves to blow, and the firſt blew his Trumpet, &amp;c. ſo therefore juſtly at this deſtruction of Ieruſalem in <hi>Anno Chriſti</hi> 71. make we both the laſt Seal and the firſt Trum<g ref="char:EOLhyphen"/>pet to begin. Every Trumpet containeth the ſpace of 245. yeares w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ich is the juſt ſpace of 5. Jubilees, and that this 71. yeare of <hi>Chriſt,</hi> and conſequently the firſt yeare of every the other Trumpet was Jubilee, you may conſider by the diſcourſe of <hi>Ioſep<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us Scal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> emend<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t. temporum.</hi> I doe conceive them to ſignifie the ſeven Ages that were then to come to the worlds end; and I am the more confirmed to believe they do ſo; for that I find in Hiſtories that great mutations of Empires followed the end of theſe 245. yeares one after another, as for example: In the yeare of <hi>Chriſt</hi> 71. <hi>Ieruſalem</hi> was deſtroyed by <hi>Titus</hi> and <hi>Veſpaſian:</hi> this was the yeare that <hi>Ieſus Chriſt</hi> procured the revenge of his blood and the blood of his Saint <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>po<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ynagogue of the <hi>Iewes.</hi>
+               </p>
+               <p n="2">II. 245. yeares after, which was in the year 316. Conſtantine the Empe<g ref="char:EOLhyphen"/>rour of <hi>Rome</hi> tranſported the Imperiall Seat from Rome to Conſtantinople, and in <hi>Rome</hi> Pope <hi>Silveſter</hi> began the Papiſtieall Kingdome, and Italy was left as a prey to the <hi>Goths</hi> and <hi>Vandals,</hi> who deſtroyed Rome and ſubdued all Italy.</p>
+               <p n="3">III. 245 yeares after, that is, in <hi>Anno</hi> 561. or thereabouts, <hi>Totita</hi> King of <hi>Goths</hi> b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ned Rome and uſurped the Dominion thereof.</p>
+               <p n="4">IIII. 245. yeares after, that is in <hi>Anno</hi> 806, Charlemaigne received the new <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pire of Germanes and Romanes.</p>
+               <p n="5">V. 45. years after, that is <hi>An.</hi> 1051 <hi>Zedok</hi> began the Dominion of the Turks.</p>
+               <p n="6">VI. 245. yeares after, that is in the yeare 1246. <hi>Otoman,</hi> began the firſt Em<g ref="char:EOLhyphen"/>pire of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oure Nations <hi>Mah<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>metans.</hi>
+               </p>
+               <p n="7">
+                  <pb n="3" facs="tcp:158358:3"/>
+VII. Laſtly, 245. yeares after, that is in the yeare 1541. aroſe our true profeſſion againſt the Kingdome of Antichriſt, ſo then for concluſion you ſee that every Trumpet or Viall endureth 245. yeares; And this ſeventh Trumpet which we are now under, is not to end till the yeare of Chriſt 1786. But I do not think that the World ſhall continue ſo long, becauſe it is ſaid, <hi>Matth.</hi> 24.22. that for the Elects ſake the time ſhall be ſhortned. It appeares to me that the day of Judgement ſhall be betwixt the yeare of Chriſt 1688. and 1700.</p>
+            </div>
+            <div n="3" type="part">
+               <head>Concerning the ſeaven Angels mentioned Rev. <hi>14.</hi>
+               </head>
+               <p>IN the 14. of the <hi>Revelation</hi> there is mention made of ſeaven Angells, <hi>Rev.</hi> 14. and every one of the firſt three thundring Angells (as I may tell them) containe a Jubilee, and then the foure laſt all at once compleateth the day of Judgement, by which it appeares to me that the day of Judgement ſhall fall a<g ref="char:EOLhyphen"/>bout that time. Now to make it appeare that every one of the firſt three thun<g ref="char:EOLhyphen"/>dring Angels contain a Jubile, after the cuſtom of the Levites &amp; Prophets, who divide great dates by Jubiles, and ſmall dates by weeks or years, we judg appa<g ref="char:EOLhyphen"/>rantly this laſt Age to be divided by Iubiles and every thunder or Angel of theſe three that are ſaid in the Text <hi>Ch.</hi> 14. <hi>v.</hi> 6 8 9. to pretend Gods great Har<g ref="char:EOLhyphen"/>veſt to containe a Jubilee, which is 49. yeares, and that the 4. laſt thundring Angels all at once compleateth the day of Judgement: In the 14 chapter, <hi>v.</hi> 14 16. it is ſaid that the fourth thundring Angel which is Chriſt himſelfe, enters actually into this great harveſt, to gather up his Elect at the warning of the fifth Angell, even Gods holy ſpirit <hi>ver.</hi> 15. like as contrarily the ſixth thun<g ref="char:EOLhyphen"/>dring Angel executor of Gods fierce wrath, mentioned <hi>v.</hi> 17.19. is admoni<g ref="char:EOLhyphen"/>ſhed and warned by the ſeventh Angel commander thereof to cut downe, and tread out the Vines of the earth into the wine-preſſe of Gods wrath, and ſo by theſe 4. laſt Angels or Thunders, to wit, by Chriſt himſelfe and by his whole miniſtr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng Angels under the figure of theſe laſt Angels, all the whole great day of Gods harveſt and l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter Judgement is accompliſhed.</p>
+               <p n="1">1. The f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt or the three firſt Angels Iubile begin. The laſt of the 7. Seales and the firſt of the ſeven Trumpets began both at once in the yeare of Chriſt 71. ſo in like manner the laſt of the ſeven Trumpets, and the firſt of the ſeven thunder begin both at once, in the yeare of Chriſt, 1541. In c. 11. v. 5. it is ſaid, that at the blaſt of the 7. Trumpet, the Kingdome of the World becom<g ref="char:EOLhyphen"/>meth Chriſts Kingdom, that is, then the Kingdom of Antichriſt &amp; all other pro<g ref="char:EOLhyphen"/>phane Kingdoms ſhall fall, and Chriſts Kingdome ſhall be ſpred and inlarged o<g ref="char:EOLhyphen"/>verall; and this can no other way come to paſſe, then by the preaching of the E<g ref="char:EOLhyphen"/>vangel; which was of new opened &amp; preached at the coming of the firſt Angell, whom the text ſaith to have an everlaſting Goſpel to preach unto them that dwell upon the earth, which Angel, as I ſaid before, is manifeſt to be the firſt of the ſeven thunders: therfore it followeth conſequently that the new reſtoring of the Evangel, the ſeventh Trumpet and the firſt Thunder, or thundring Angel come all at once in <hi>An.</hi> 1541. about which year God ſtirreth up openly his firſt Miniſters and ſervants, <hi>Luther, Calvin, Melancthon</hi> and others, v. 6, 7. to preach out during all this Jubile, the perfect verity of the <hi>Gospel</hi> publikely, which be<g ref="char:EOLhyphen"/>fore was hid and obſcured under the <hi>Antichriſtian</hi> reign; ſo that the true Church
+<pb n="4" facs="tcp:158358:4"/>lurketh no more, but Gods truth to all the world is made apparant by theſe Miniſters teaching them according to the Text, to feare God onely, and leaving all other ſuperſtitious worſhipping to give glory onely unto him.</p>
+               <p n="2">2. The firſt of theſe 3. Iubiles if you reck<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, you ſhall eaſily find that it en<g ref="char:EOLhyphen"/>ded in <hi>Ann. Chriſti</hi> 1590. And then came the ſecond of the ſeven thundring Angels, declaring even preſently the horrible fall and decay to become of that figurative <hi>Babylon,</hi> and great Antichriſtian City, about which time, to wit, the end of the firſt Iubile, and beginning of the ſecond, God hath ſhewed mar<g ref="char:EOLhyphen"/>vellous indices that the Empire of Rome and Papiſticall Kingdome ſhall ſho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ly fall<g ref="char:punc">▪</g> the Antichriſtian and Spaniſh Fleet is deſtroyed, the late King of <hi>Fra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e</hi> Duke of <hi>Guiz<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and his Brother, Papiſts and Committers of the Pariſian Maſ<g ref="char:EOLhyphen"/>ſacre, all murthered <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y other, a Proteſtant now made King of <hi>France;</hi> this Iu<g ref="char:EOLhyphen"/>bile endeth in the yeare, 1639.</p>
+               <p n="3">3. After that comes the third Iubile, or the third thundring and threatning Meſſenger openly and loudly threatning, that if any be now that do worſhip o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reverence that Antichriſtian Empire, or that receive the old ſuperſtitious marks thereof on their foreheads or on their hands, the ſame ſhall drinke of Gods wrath; ſo that in this third Jubile the Miniſters and Meſſengers of God, ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll (God-willing) have only the latter dregs of that Romiſh feat to admoniſh and threaten by open intimation, that if any be in whoſe hearts the reverence of that ruined Empire, or if any now be marked with Chriſme or Croſſe on hand or head, he ſhall be tormented eternally in the fire of Hell.</p>
+               <p n="4">4, 5, 6, 7. Then adde to 1639. 49. yeares and the day of Judgement ap<g ref="char:EOLhyphen"/>peares to fall about 1688. plainly proved by Scripture.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IIII. Concerning the Symboll of the Sabboth.</head>
+               <p>FIrſt, as touching the Symboll of the Sabboth, it is thought by the moſt learned, that the ſix dayes of labour weekly obſerved, doth meane and beare the Symboll of 6000. yeares, that mankind ſhall endure the travells and cares of this world, and that is confirmed by <hi>Peter,</hi> who ſpeaking of the day of Judgement, noteth that a thouſand yeares ſhall be as one day in Gods ſight, and a day as a thouſand yeares<g ref="char:punc">▪</g> and ſo conſequently the ſixe dayes of worke to re<g ref="char:EOLhyphen"/>preſent ſix thouſand yeares, after the which ſix thouſand yeares, of worldly cares and travells, then ſhall come our eternall Sabboth and reſt in the glory of Heaven, ſignified by the ſeaventh dayes reſt, for that truly there is no inſtituti<g ref="char:EOLhyphen"/>on appointed by God to <hi>Moſes,</hi> which beſides the civill commodity had not al<g ref="char:EOLhyphen"/>ſo a ſpirituall figure, and ſure it is that no figure agreeth more conſonant with theſe ſixe dayes of worke, and ſeventh day of reſt then the preſent miſeries of this world, and eternall Sabboth hereafter.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V. Concerning the Propheſie of Elias.</head>
+               <p>SEcondly, agreeable to the former, there is a ſentence of the houſe of <hi>Elias,</hi> reſerved in all ages bearing theſe words, the world ſhall ſtand ſix thouſand yeares, and then it ſhall be conſumed with fire, two thouſand yeares void or without Law, two thouſand yeares under the Law, and two thouſand ye<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s ſhall be the dayes of the <hi>Meſsias,</hi> and for our offences which ſhall be many
+<pb n="5" facs="tcp:158358:4"/>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d great, ſhall theſe years lack which ſhall lack, thus farre ſaith <hi>Elias:</hi> Now the term of theſe 6000. years, doth expire about the 2000. year of <hi>Chriſt,</hi> which term both by the ſaid ſaying of <hi>Elias,</hi> and by <hi>Chriſts</hi> own ſaying in <hi>Matthew</hi> appeareth to be ſhortened.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. Concerning the Prophecie of Daniel.</head>
+               <p>BVt by <hi>Daniel</hi> we ſhall approach nearer that terme, for in his 12. Chapter intreating both of the firſt reſurrection, which is the reſurrection from the Antichriſtian errours; and of the ſecond reſurrection, which is the generall reſurrection from the dead, ſuch an Angell as afterwards appeareth to <hi>Iohn, Rev.</hi> 10. teaching him concerning the latter day, doth here appear to <hi>Da<g ref="char:EOLhyphen"/>niel,</hi> ſwearing ſolemnly a term of Propheticall days doubled by the Prophet, of which the greateſt terme is expreſſed to be 1335. Propheticall days, which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re ſo many yeers, whoſe beginnings are determined in theſe words, and from the time that the daily ſacrifice ſhall ceaſe, and the abomination put to deſo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tion, or made deſolate, ſhalbe 1290. dayes, bleſſed is he that waiteth and abi<g ref="char:EOLhyphen"/>deth to the 1335. day: as if he ſhould ſay, from that time that both the Jew<g ref="char:EOLhyphen"/>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h daily ſacrifice ſhall ceaſe and the abominable rites of the Gentiles be aboli<g ref="char:EOLhyphen"/>ſhed, to the compleating of the great reſurrection from the Antichriſtian er<g ref="char:EOLhyphen"/>rours, and utter day of his Kingdome ſhalbe 1290. years, and then bleſſed ſhall he be that abideth and remaineth conſtant in the ſmall time, that ſhalbe betwixt that and the latter day, which ſhall fall in the 1335. year from the taking a<g ref="char:EOLhyphen"/>way of the ſaid Jewiſh Ceremonies, and Gentiles ſuperſtitions, but ſo it is that theſe were neither actually taken away by <hi>Chriſts</hi> Paſſion, neither in the deſtruction of <hi>Ieruſalem,</hi> nor otherwiſe, till miraculouſly in the dayes of <hi>Iuli<g ref="char:EOLhyphen"/>an</hi> the Apoſtate, <hi>Anno Chriſti</hi> 365. This Apoſtate having in deſpite of <hi>Chriſt</hi> ordained the Jews to build up and repair their Temple of <hi>Ieruſalem</hi> on the one part, and on the other part having ſent his Legats to offer ſacrifice in the chiefe Ethnick Temple of the Gentiles in <hi>Delphos,</hi> and to conſult with that oracl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Apollo</hi> there, GOD ſent his thunder from above and earth-quake from beneath, and thereby overwhelmed both thoſe chief Temples about one tune ſo utterly, that to this day all the Jewiſh d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ily ſacrifice of the one, and the abominable Ethnick ſuperſtitions of the other have ceaſed, and p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to utter confuſion and deſolation: but if after the opinion of ſome learned men, this Text doth mean in the Originall Hebrew, not the abomination, to be put in deſolation, but con<g ref="char:EOLhyphen"/>trarily a deſolating, and waſting abomination, to be ſet up, together alſo with the taking away the former, and foreſaid daily ſacrifice, in this caſe appearing by the ſame date is not the leſſe eſtabliſhed; for who was a more horrible and waſting abomination then was the aforeſaid <hi>Iulian</hi> that bloud thirſty Apo<g ref="char:EOLhyphen"/>ſtate, together with his deteſtable idolatrous magicall decrees, which pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>likely he acted and ſet up, to bring Chriſtianiſme to utter deſolation, ſo that howſoe<g ref="char:EOLhyphen"/>ver this abomination be expounded, either paſſively to be made deſolate, as the Gentiles chief abominable and idolatrous Oracle of <hi>Apollo</hi> at that time was made deſolate; or actively, that the abomination ſhould make a waſting or de<g ref="char:EOLhyphen"/>ſolation, and that that waſting abomination ſhould be then erected, as the abo<g ref="char:EOLhyphen"/>minable
+<pb n="6" facs="tcp:158358:5"/>tyrant and Apoſtate <hi>Iulian</hi> was promoted Emperour, and his cla<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> decrees of perſecution at that time ſet out, even always in that very ſame year, 365. all the foreſaid accidents occurred: for in that one yeer, both firſt the foundations of the J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhiſh Temple of daily ſacrifice, as ſecondly (in the paſ<g ref="char:EOLhyphen"/>ſive ſence) the ſaid Temple of the Ethnicks abominations in Delphos were by thunder and earthquake both deſtroyed, as thirdly in the active ſence that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>minable Julian and his Decrees, for deſolating and devouring Gods ſerv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt were then ſet up; Therefore from this yeare of Chriſt, 365. we are commanded to reckon 1335. yeares, which falls in Anno 1700. And then ſaith <hi>Daniel,</hi> V. 6. ſhall be tre end of all wonders, even the wondrous and great day of the Lord, but yet as this prop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſie doth abridge the aforeſaid propheſie of Elias,</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII. Concerning Chriſts owne ſaying.</head>
+               <p>ANd Chriſts foreſaid ſaying in Matthew that came after this Propheſie, doth apparently abridge ſomwhat of this time, therefore as men ſaid be<g ref="char:EOLhyphen"/>fore<g ref="char:punc">▪</g> every thundring Angell of three containec 49. yeers, and then comes that groat day of the Lord; and we proved that the firſt thundring An<g ref="char:EOLhyphen"/>gel began in <hi>Anno</hi> 1641. to which add thrice 49. years, which is 147. years, and ſo by that account the latter day will fall in <hi>Anno</hi> 1687. wherefore appe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ringly betwixt this 1688. according to the Revelation, and the 1700. yeer ac<g ref="char:EOLhyphen"/>cording to <hi>Daniel,</hi> the ſaid latter day ſhould fall, and for further confirmation thereof, there is a number put in the end of the 14. Chapter of the Revelati<g ref="char:EOLhyphen"/>on, which appeares to be a date of the latter day, for that Chapter altogether ſpeaks of the Lords great harveſt and latter judgment, there, ſaith <hi>Iohn,</hi> the blood came out of the wine-preſſe unto the horſe bridles, by the ſpace of 1600 ſtades or courſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, as if app<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aringly he would mean metaphorically, as wine may be thought to flow from the Preſſe, or the bloud of ſlain men in a field to aſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the horſe bridles; ſo eternally ſhall the torment of the wicked aſcend, after 1600. years be accompliſhed; for their ſtades agree well to mean years, ſeeing a ſtade is that Race or courſe, that one is thought to run with one breath, before he begin to renew his breath againe, as one yeare is that race or courſe, that the Sunne maketh in a circuit, before he begin to renew his circuit againe, now counting therefore 1600. yeares, f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om the time that this was written, which was about the 97. yeare of Chriſt, as <hi>Euſebius</hi> in his Chronicke ſaith, or in the end of the reigne of <hi>Domitian,</hi> as <hi>Fremeus</hi> ſaith, which was in the yeare 199. the end of the account ſhall fall about the yeare of Chriſt 1697. or the yeere 1699. which is betwizt the ſaid terme 1688. and 1700. and ſo the difference of theſe dates are but ſmall, and if the time of Hiſtories were ſurely written, and obſerved, it may be thought that the di<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erence would be either leſſe, or utterly nothing at all.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
